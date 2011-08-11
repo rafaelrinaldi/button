@@ -1,6 +1,6 @@
 [asdoc]: http://rafaelrinaldi.github.com/button/asdoc
-[license]: http://github.com/rafaelrinaldi/button/blob/master/license.txt
-[examples_folder]: http://github.com/rafaelrinaldi/button/blob/master/examples
+[license]: https://github.com/rafaelrinaldi/button/raw/master/license.txt
+[examples_folder]: https://github.com/rafaelrinaldi/button/blob/master/examples
 [mauro]: https://github.com/maurodetarso
 
 # button
